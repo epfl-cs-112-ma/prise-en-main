@@ -1,3 +1,6 @@
+def square(x: int) -> int:
+    return x * x
+
 def main() -> None:
     print("Hello from prise-en-main!")
 
